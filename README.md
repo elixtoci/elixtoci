@@ -8,7 +8,7 @@
 😄 Pronouns: She/Her
 
 <!-- Add Profile Picture -->
-<img src="[https://miro.medium.com/v2/resize:fit:1400/1*_fQh5vT5GDv3e4KsEN7yOA.jpeg](https://i0.wp.com/www.loadmag.eu/wp-content/uploads/2022/12/47A4332-scaled.jpg?w=2160&ssl=1)" alt="Profile Picture" width="140" height="200">
+<img src="https://i0.wp.com/www.loadmag.eu/wp-content/uploads/2022/12/47A4332-scaled.jpg?w=2160&ssl=1" alt="Profile Picture" width="140" height="200">
 
 ## About Me
 I'm a passionate software developer with a love for open-source projects. I specialize in web development and have experience working with various technologies such as HTML, CSS, JavaScript, and Python.
